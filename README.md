@@ -5,7 +5,7 @@ In recent years, Generative Adversarial Networks (GANs) have become the mainstre
 Over Framework
 ![4372ab51550a53609ce7c8219e32cde](https://github.com/GAInuist/T2IBigGAN/assets/157414652/663c4ca4-d95f-4c78-aeb0-ec401430ccc1)
 
-
+## 注：
 文件code中保存了代码
 
 文件DAMSMenconders中保存各个数据集对应的预训练模型，比如bird/image_encoder200.pth 或者 bird/text_encoder200.pth
@@ -13,3 +13,13 @@ Over Framework
 Models文件里放的是BigGAN的模型代码，根据需要选择biggan模型或者biggandeep模型进行训练
 
 Data文件中保存的是训练的数据集，bird或者ms_coco数据集
+
+## 模型权重文件下载点：
+model.ckpt: https://drive.google.com/file/d/1u9TVR4wTgXgOnWLTG3aFvyByfXFv2Se4/view?usp=drive_link
+
+
+## 存放位置
+
+
+
+
