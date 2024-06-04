@@ -17,9 +17,17 @@ Data文件中保存的是训练的数据集，bird或者ms_coco数据集
 ## 模型权重文件下载点：
 model.ckpt: https://drive.google.com/file/d/1u9TVR4wTgXgOnWLTG3aFvyByfXFv2Se4/view?usp=drive_link
 
+model.ckpt.meta: https://drive.google.com/file/d/1TaP7ven0C54SeRqR4f6Xn0pqd1F3hHy1/view?usp=drive_link
+
+image_encoder200.pth： https://drive.google.com/file/d/1Ii4RQbrDvjZQAZaQLJPQE5fDbIxgUcfu/view?usp=drive_link
+
+text_encoder200.pth: https://drive.google.com/file/d/1CSMJDDlIcMjWkrZFYpmzc6SdHQowcqZ3/view?usp=drive_link
 
 ## 存放位置
 
+model.ckpt和model.ckpt.meta存放于T2IBigGAN\evalution\inception_finetuned_models文件夹中
+
+image_encoder200.pth和text_encoder200.pth存放于T2IBigGAN\DAMSMencoders\bird文件夹中
 
 
 
