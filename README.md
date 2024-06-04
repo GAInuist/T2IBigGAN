@@ -2,7 +2,7 @@
 
 In recent years, Generative Adversarial Networks (GANs) have become the mainstream Text-to-Image(T2I) framework. However, a standard normal distribution noise of inputs cannot provide enough information to ynthesize an image that approaches the ground-truth image distribution. Moreover, the multi-stage generation strategy makes it complex to apply T2I. Therefore, this paper proposes a novel feature-grounded single-stage T2I model, which takes the ”real” distribution learned from training images as one input and introduces a worst-caseoptimized similarity measure into the loss function to enhance the generation capacity. Experimental results on two benchmark datasets demonstrate that the proposed model has competitive performance on FID and IS compared to some classical and state-of-the-art works and improves the similarity between the generated image, the text, and the ground truth.
 
-Over Framework
+## Over Framework
 ![4372ab51550a53609ce7c8219e32cde](https://github.com/GAInuist/T2IBigGAN/assets/157414652/663c4ca4-d95f-4c78-aeb0-ec401430ccc1)
 
 ## 注：
